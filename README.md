@@ -19,7 +19,7 @@ Welcome to open 𝛾-version!
 
 ✓ Feature-rich but neat to keep you focused
 
-## [Demo](https://planzed.org/demo)
+## [Demo](https://planzed.org/demo) - fill free to play with, changes will not persist
 
 ![image](https://user-images.githubusercontent.com/6861317/118562252-9e975180-b76c-11eb-9ada-e7042ebbac2c.png)
 ![image](https://user-images.githubusercontent.com/6861317/118562313-c090d400-b76c-11eb-876b-966bf6d75ce8.png)
